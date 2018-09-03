@@ -1,3 +1,2 @@
-# chapter07
-Unsupervised Learning Exercises and Assessment
-Created by Dr Sebastiano Barbieri
+# Chapter 7 Unsupervised Learning Exercises and Assessment
+Created by Sebastiano Barbieri
